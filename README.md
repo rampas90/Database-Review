@@ -45,42 +45,42 @@
 
     * 제 3장  타입(Type)
       * [제 1절 숫자 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/1.%20%EC%88%AB%EC%9E%90%20%ED%83%80%EC%9E%85.md)
-      * [제 2절 문자열 타입]()
-      * [제 3절 날짜와 시간 타입]()
+      * [제 2절 문자열 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/2.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%80%EC%9E%85.md)
+      * [제 3절 날짜와 시간 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/3.%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84%20%ED%83%80%EC%9E%85.md)
 
     * 제 4장  연산자와 함수
-      * [제 1절 산술 연산자]
-      * [제 2절 대입 연산자]
-      * [제 3절 비교 연산자]
-      * [제 4절 논리 연산자]
-      * [제 5절 비트 연산자]
-      * [제 6절 흐름 제어]
-      * [제 7절 패턴 매칭]
-      * [제 8절 타입 변환]
+      * [제 1절 산술 연산자]()
+      * [제 2절 대입 연산자]()
+      * [제 3절 비교 연산자]()
+      * [제 4절 논리 연산자]()
+      * [제 5절 비트 연산자]()
+      * [제 6절 흐름 제어]()
+      * [제 7절 패턴 매칭]()
+      * [제 8절 타입 변환]()
 
     * 제 5장  제약조건
-      * [제 1절 NOT NULL]
-      * [제 2절 UNIQUE]
-      * [제 3절 PRIMARY KEY]
-      * [제 4절 FOREIGN KEY]
-      * [제 5절 DEFAULT]
+      * [제 1절 NOT NULL]()
+      * [제 2절 UNIQUE]()
+      * [제 3절 PRIMARY KEY]()
+      * [제 4절 FOREIGN KEY]()
+      * [제 5절 DEFAULT]()
 
     * 제 6장  다중 테이블 연산
-      * [제 1절 JOIN]
-      * [제 2절 UNION]
-      * [제 3절 서브쿼리]
+      * [제 1절 JOIN]()
+      * [제 2절 UNION]()
+      * [제 3절 서브쿼리]()
 
     * 제 7장  INDEX
-      * [제 1절 INDEX 생성]
-      * [제 2절 INDEX 추가]
-      * [제 3절 INDEX 삭제]
+      * [제 1절 INDEX 생성]()
+      * [제 2절 INDEX 추가]()
+      * [제 3절 INDEX 삭제]()
 
     * 제 8장  VIEW
-      * [제 1절 VIEW 생성 및 대체]
-      * [제 2절 VIEW 수정 및 삭제]
+      * [제 1절 VIEW 생성 및 대체]()
+      * [제 2절 VIEW 수정 및 삭제]()
 
     * 제 9장  MySQL 내장 함수
-      * [제 1절 문자열 함수]
-      * [제 2절 수학 함수]
-      * [제 3절 날짜와 시간 함수]
-      * [제 4절 그룹 함수]
+      * [제 1절 문자열 함수]()
+      * [제 2절 수학 함수]()
+      * [제 3절 날짜와 시간 함수]()
+      * [제 4절 그룹 함수]()
