@@ -50,9 +50,9 @@
 
     * 제 4장  연산자와 함수
       * [제 1절 연산자](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/1.%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
-      * [제 2절 흐름 제어](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/2.%20%ED%9D%90%EB%A6%84%20%EC%A0%9C%EC%96%B4.md)
-      * [제 3절 패턴 매칭](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/3.%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD.md)
-      * [제 4절 타입 변환](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/4.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98.md)
+      * [제 2절 흐름 제어]()
+      * [제 3절 패턴 매칭]()
+      * [제 4절 타입 변환]()
 
     * 제 5장  제약조건
       * [제 1절 NOT NULL]()
