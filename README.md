@@ -44,7 +44,7 @@
       * [제 7절 SELECT](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%202%EC%9E%A5%20-%20MySQL%20%EA%B8%B0%EB%B3%B8/7.%20SELECT.md)
 
     * 제 3장  타입(Type)
-      * [제 1절 숫자 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/1.%20%EC%88%AB%EC%9E%90%20%ED%83%80%EC%9E%85.md)
+      * [제 1절 숫자 타입]()
       * [제 2절 문자열 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/2.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%80%EC%9E%85.md)
       * [제 3절 날짜와 시간 타입](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%203%EC%9E%A5%20-%20%ED%83%80%EC%9E%85(Type)/3.%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84%20%ED%83%80%EC%9E%85.md)
 
