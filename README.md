@@ -66,14 +66,14 @@
       * [제 2절 UNION](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%206%EC%9E%A5%20-%20%EB%8B%A4%EC%A4%91%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%97%B0%EC%82%B0/2.%20UNION.md)
       * [제 3절 서브쿼리](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%206%EC%9E%A5%20-%20%EB%8B%A4%EC%A4%91%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%97%B0%EC%82%B0/3.%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
 
-    * [제 7장  INDEX]()
-      * [제 1절 INDEX 생성]()
-      * [제 2절 INDEX 추가]()
-      * [제 3절 INDEX 삭제]()
+    * [제 7장  INDEX](https://github.com/leedongminAI/Database/tree/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%207%EC%9E%A5%20-%20INDEX)
+      * [제 1절 INDEX 생성](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%207%EC%9E%A5%20-%20INDEX/1.%20INDEX%20%EC%83%9D%EC%84%B1.md)
+      * [제 2절 INDEX 추가](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%207%EC%9E%A5%20-%20INDEX/2.%20INDEX%20%EC%B6%94%EA%B0%80.md)
+      * [제 3절 INDEX 삭제](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%207%EC%9E%A5%20-%20INDEX/3.%20INDEX%20%EC%82%AD%EC%A0%9C.md)
 
-    * [제 8장  VIEW]()
-      * [제 1절 VIEW 생성 및 대체]()
-      * [제 2절 VIEW 수정 및 삭제]()
+    * [제 8장  VIEW](https://github.com/leedongminAI/Database/tree/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%208%EC%9E%A5%20-%20VIEW)
+      * [제 1절 VIEW 생성 및 대체](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%208%EC%9E%A5%20-%20VIEW/1.%20VIEW%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EB%8C%80%EC%B2%B4.md)
+      * [제 2절 VIEW 수정 및 삭제](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%208%EC%9E%A5%20-%20VIEW/2.%20VIEW%20%EC%88%98%EC%A0%95%20%EB%B0%8F%20%EC%82%AD%EC%A0%9C.md)
 
     * [제 9장  MySQL 내장 함수]()
       * [제 1절 문자열 함수]()
