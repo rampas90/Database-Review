@@ -51,7 +51,7 @@
     * [제 4장  연산자와 함수](https://github.com/leedongminAI/Database/tree/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98)
       * [제 1절 연산자 - 산술, 대입, 비교, 논리, 비트](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/1.%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
       * [제 2절 흐름 제어 - CASE, IF, IFNULL, NULLIF](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/2.%20%ED%9D%90%EB%A6%84%20%EC%A0%9C%EC%96%B4.md)
-      * [제 3절 패턴 매칭- LIKE, REGEXP, WILDCARD](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/3.%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD.md)
+      * [제 3절 패턴 매칭 - LIKE, REGEXP, WILDCARD](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/3.%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD.md)
       * [제 4절 타입 변환 - BINARY, CAST, CONVERT](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%204%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/4.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98.md)
 
     * [제 5장  제약조건](https://github.com/leedongminAI/Database/tree/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%205%EC%9E%A5%20-%20%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4)
@@ -76,7 +76,7 @@
       * [제 2절 VIEW 수정 및 삭제](https://github.com/leedongminAI/Database/blob/master/%EA%B3%BC%EB%AA%A9%20%E2%85%A1%20-%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%208%EC%9E%A5%20-%20VIEW/2.%20VIEW%20%EC%88%98%EC%A0%95%20%EB%B0%8F%20%EC%82%AD%EC%A0%9C.md)
 
     * [제 9장  MySQL 내장 함수]()
-      * [제 1절 문자열 함수]()
-      * [제 2절 수학 함수]()
-      * [제 3절 날짜와 시간 함수]()
-      * [제 4절 그룹 함수]()
+      * [제 1절 문자열 함수 - LENGTH, CONCAT, LOCATE, LEFT, RIGHT, LOWER, UPPER, REPLACE, TRIM, FORMAT]()
+      * [제 2절 수학 함수 - FLOOR, CEIL, SQRT, POW, EXP, LOG, SIN, COS, TAN, ABS, RAND]()
+      * [제 3절 날짜와 시간 함수 - NOW, CURDATE, CURTIME, DATE, MONTH, DAY, HOUR, MINUTE, SECOND, MONTHNAME, DAYNAME, DAYOFWEEK, DAYOFMONTH, DAYOFYEAR, DATE_FORMAT]()
+      * [제 4절 그룹 함수 - COUNT, MIN, MAX, SUM, AVG, GROUP BY, HAVING]()
